@@ -30,7 +30,7 @@ Often used in situations where bulk data is filtered down to a small geography. 
 
 AKA [Mary Sue](http://tvtropes.org/pmwiki/pmwiki.php/Main/MarySue), the Hypothetical Person is your ideal user, somone who mysteriously wants the information or service you want and knows exactly how to find it. In reality, nearly no products or projects are magic bullets (even if you get that huge grant you're pitching), and using Mary Sue leaves aduience members with feelings like, "I guess it's possible that someone would want that," rather than a real undesrstanding of who uses the product. 
 
-Instead, use a real person. If a real person isn't avaiable, either re-evaluate if you are ready to present, or use your own use case. In any case, pick a concrete person who the audience can 
+Instead, use a real person. If a real person isn't avaiable, either re-evaluate if you are ready to present, or use your own use case. In any case, pick a concrete person who the audience can understand. 
 
 ### Comunity organizers
 
