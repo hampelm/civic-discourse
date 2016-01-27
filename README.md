@@ -12,11 +12,11 @@ Who, specifically?  What factors link them together to make them a community? Gi
 
 ### Interact
 
-Do you mean "get information from the website"? Or do you mean "Have an in-person discussion"?  Instead,pick a more precise verb like "meet with" or "click on". 
+Do you mean "get information from the website"? Or do you mean "Have an in-person discussion"?  Instead,pick a more precise verb like "meet with" or "click on".
 
 ### Tell the story
 
-Often seen as "We tell the story of [local businesses, stop and frisk, potholes...]" Storytelling online is an [involved process](https://www.msu.edu/course/tc/842/SevenElements%20Story.htm) that often requires prose. On data-heavy sites, you haven't done the storytelling work -- the readers tell themselves stories using your data. 
+Often seen as "We tell the story of [local businesses, stop and frisk, potholes...]" Storytelling online is an [involved process](https://www.msu.edu/course/tc/842/SevenElements%20Story.htm) that usually requires prose. On data-heavy sites, you haven't done the storytelling work -- the readers tell themselves stories using your data. 
 
 ### Tell your story
 
@@ -24,7 +24,7 @@ Often seen as "We tell the story of [local businesses, stop and frisk, potholes.
 
 ### Adding local context
 
-Often used in situations where bulk data is filtered down to a small geography. For example, "We use property inspection data to add local context". Avoid this phrasing because machine processed data presented in a way that actually connects and illuminates the situation. See also _Tell the story_.
+Often used in situations where bulk data is filtered down to a small geography. For example, "We use property inspection data to add local context." Avoid this phrasing because machine processed data is rarely presented in a way that actually connects and illuminates the situation. See also _Tell the story_.
 
 ### [Hypothetical Person]
 
