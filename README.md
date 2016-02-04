@@ -50,7 +50,7 @@ You don't look very excited.
 
 ### Easy-to-use online tools
 
-At this point, we can assume that you're building easy-to-use, online tools instead of difficult-to-use, phone-only bureaucracies. Instead, tell us exactly how you 
+At this point, we can assume that you're building easy-to-use, online tools instead of difficult-to-use, phone-only bureaucracies. Instead, tell us (or ideally _show_ us) what makes your new thing better.
 
 ## Patterns
 ### Send me an email
