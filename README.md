@@ -61,6 +61,12 @@ A great call to action because it (a) shares information that is often hidden an
 
 I'm not yet sure if or how these words and phrases fit in the pattern directory. 
 
+### #hashtag
+
+### Blockchain
+
+> I’m building a community OS with #blockchain technology!
+
 ### Tool
 
 Feels like this is often used without conveying information. What does the tool let you do? Is it actually multiple tools? (Maybe multi-tool is a good alternative?) People know what to do with tools like hammers, saws, and screwdrivers. It's less clear with software. You usually own a tool, but in the software context, it's often applied to a subscription services. 
