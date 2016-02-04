@@ -12,7 +12,7 @@ Who, specifically?  What factors link them together to make them a community? Gi
 
 ### Interact
 
-Do you mean "get information from the website"? Or do you mean "Have an in-person discussion"?  Instead,pick a more precise verb like "meet with" or "click on".
+Do you mean "get information from the website"? Or do you mean "Have an in-person discussion"?  Instead, pick a more precise verb like "meet with" or "click on".
 
 ### Tell the story
 
