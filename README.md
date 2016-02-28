@@ -53,6 +53,20 @@ You don't look very excited.
 At this point, we can assume that you're building easy-to-use, online tools instead of difficult-to-use, phone-only bureaucracies. Instead, tell us (or ideally _show_ us) what makes your new thing better.
 
 ## Patterns
+
+### Model, Repeatable Model
+
+> This is a model that can be used...
+
+If you're sharing something you know is a model other people should follow, make sure you include the basics: who, what, where, why, when, and how:
+* people and skills required
+* timeline
+* budget
+* inputs
+* outcomes
+
+All models need to be adapted to the context you're using them in. It's helpful to note which elements of the model are fixed, and what are expected to change (and by how much) 
+
 ### Send me an email
 
 A great call to action because it (a) shares information that is often hidden and (b) gives people who want to get in touch an avenue -- if they're invested enough to write a couple sentences. 
