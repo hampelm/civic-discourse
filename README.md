@@ -24,7 +24,11 @@ Often seen as "We tell the story of [local businesses, stop and frisk, potholes.
 
 ### Adding local context
 
-Often used in situations where bulk data is filtered down to a small geography. For example, "We use property inspection data to add local context." Avoid this phrasing because machine processed data is rarely presented in a way that actually connects and illuminates the situation. See also _Tell the story_.
+If you are adding local context by using stories, photos, video, audio, data and more to build a deeper undersetanding of a place, use this phrase.
+
+This phrase is often used in situations where bulk data is filtered down to a small geography. For example, "We use property inspection data to add local context." Avoid this phrasing because machine processed data is rarely presented in a way that actually connects and illuminates the situation. What it _may_ do is add hard-to-find facts; surface previously hidden details, or otherwise increase the convenience of access. 
+
+ See also _Tell the story_.
 
 ### [Hypothetical Person]
 
