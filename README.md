@@ -44,9 +44,7 @@ See also: Hypothetical Person.
 
 ### "So excited..."
 
-You don't look very excited. 
-
-### Visualizations, charts, graphs, maps
+I think that's the coffee talking.
 
 ### Easy-to-use online tools
 
@@ -75,11 +73,15 @@ A great call to action because it (a) shares information that is often hidden an
 
 I'm not yet sure if or how these words and phrases fit in the pattern directory. 
 
+### Visualizations, charts, graphs, maps
+
 ### #hashtag
 
 ### Blockchain
 
 > I’m building a community OS with #blockchain technology!
+
+Mhmmmm. 
 
 ### Tool
 
