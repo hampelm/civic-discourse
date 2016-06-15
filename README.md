@@ -1,4 +1,4 @@
-# Civic Discourse Patterns
+# Civic Language Patterns
 
 A collection of language commonly used in the civic tech world. Assembled from attending dozens of pitches and talks, many for very cool projects, that excelled or failed at communicating their ideas by using relatable, concrete words or vauge, confusing platitudes. 
 
